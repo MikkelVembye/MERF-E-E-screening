@@ -1,0 +1,8 @@
+{
+  "permission": {
+    "external_directory": {
+      "C:/Users/B199526/AppData/Local/Programs/Positron/resources/*": "allow",
+      "C:/Users/B199526/AppData/Local/Programs/Positron/bin/*": "allow"
+    }
+  }
+}
